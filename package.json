@@ -1,0 +1,16 @@
+{
+  "name": "trello-api",
+  "version": "1.0.0",
+  "description": "api code base for trello",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon ./server.js"
+  },
+  "author": "chiragsinh-chavda",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.4",
+    "ts-node": "^10.9.2"
+  }
+}
